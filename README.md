@@ -1,0 +1,2 @@
+# othello
+make othello
